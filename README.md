@@ -1,7 +1,3 @@
-Here’s a sample GitHub README template for your **Hardware Trojan Detection Project**:
-
----
-
 # Hardware Trojan Detection
 
 ## Overview
